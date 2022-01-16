@@ -1,0 +1,459 @@
+Error in line 1:  NOT 2
+Error in line 2: N OT 3
+Error in line 3: NO T 4
+Error in line 4: NOT  5
+Error in line 5: NOT  6
+Error in line 6: NOT 7 
+Error in line 7:  XOR 10 11
+Error in line 8: X OR 12 13
+Error in line 9: XO R 14 15
+Error in line 10: XOR  16 17
+Error in line 11: XOR  18 19
+Error in line 12: XOR 2 0 21
+Error in line 13: XOR 22  23
+Error in line 14: XOR 24  25
+Error in line 15:  AND 28 29
+Error in line 16: A ND 30 31
+Error in line 17: AN D 32 33
+Error in line 18: AND  34 35
+Error in line 19: AND  36 37
+Error in line 21: AND 40  41
+Error in line 22: AND 42  43
+Error in line 24: AND 46 47 
+Error in line 25:  NAND 50 51
+Error in line 26: N AND 52 53
+Error in line 27: NA ND 54 55
+Error in line 28: NAN D 56 57
+Error in line 29: NAND  58 59
+Error in line 30: NAND  60 61
+Error in line 32: NAND 64  65
+Error in line 33: NAND 66  67
+Error in line 35: NAND 70 71 
+Error in line 36:  OR 74 75
+Error in line 37: O R 76 77
+Error in line 38: OR  78 79
+Error in line 39: OR  80 81
+Error in line 41: OR 84  85
+Error in line 42: OR 86  87
+Error in line 44: OR 90 91 
+Error in line 45:  NOR 94 95
+Error in line 46: N OR 96 97
+Error in line 47: NO R 98 99
+Error in line 48: NOR  100 101
+Error in line 49: NOR  102 103
+Error in line 51: NOR 108  109
+Error in line 52: NOR 110  111
+Error in line 54: 	NOT 115
+Error in line 55: N	OT 116
+Error in line 56: NO	T 117
+Error in line 57: NOT	 118
+Error in line 58: NOT 	119
+Error in line 61: NOT 122	
+Error in line 62: 	XOR 125 126
+Error in line 63: X	OR 127 128
+Error in line 64: XO	R 129 130
+Error in line 65: XOR	 131 132
+Error in line 66: XOR 	133 134
+Error in line 67: signal 1 is assigned to multiple outputs.
+Error in line 69: XOR 139	 140
+Error in line 70: XOR 141 	142
+Error in line 73: XOR 147 148	
+Error in line 74: 	AND 151 152
+Error in line 75: A	ND 153 154
+Error in line 76: AN	D 155 156
+Error in line 77: AND	 157 158
+Error in line 78: AND 	159 160
+Error in line 79: signal 1 is assigned to multiple outputs.
+Error in line 81: AND 165	 166
+Error in line 82: AND 167 	168
+Error in line 85: AND 173 174	
+Error in line 86: 	NAND 177 178
+Error in line 87: N	AND 179 180
+Error in line 88: NA	ND 181 182
+Error in line 89: NAN	D 183 184
+Error in line 90: NAND	 185 186
+Error in line 91: NAND 	187 188
+Error in line 92: signal 1 is assigned to multiple outputs.
+Error in line 94: NAND 193	 194
+Error in line 95: NAND 195 	196
+Error in line 97: NAND 199 20	0
+Error in line 98: NAND 201 202	
+Error in line 99: 	OR 205 206
+Error in line 100: O	R 207 208
+Error in line 101: OR	 209 210
+Error in line 102: OR 	211 212
+Error in line 105: OR 217	 218
+Error in line 106: OR 219 	220
+Error in line 109: OR 225 226	
+Error in line 110: 	NOR 229 230
+Error in line 111: N	OR 231 232
+Error in line 112: NO	R 233 234
+Error in line 113: NOR	 235 236
+Error in line 114: NOR 	237 238
+Error in line 115: signal 2 is assigned to multiple outputs.
+Error in line 117: NOR 243	 244
+Error in line 118: NOR 245 	246
+Error in line 120: NOR 249 25	0
+Error in line 121: NOR 251 252	
+Error in line 122: 
+Error in line 123: NOT 254
+Error in line 124: N
+Error in line 125: OT 255
+Error in line 126: NO
+Error in line 127: T 256
+Error in line 128: NOT
+Error in line 129:  257
+Error in line 130: NOT 
+Error in line 131: 258
+Error in line 132: NOT 2
+Error in line 133: 59
+Error in line 134: NOT 26
+Error in line 135: 0
+Error in line 136: NOT 261
+Error in line 137: 
+Error in line 138: 
+Error in line 139: XOR 264 265
+Error in line 140: X
+Error in line 141: OR 266 267
+Error in line 142: XO
+Error in line 143: R 268 269
+Error in line 144: XOR
+Error in line 145:  270 271
+Error in line 146: XOR 
+Error in line 147: 272 273
+Error in line 148: XOR 2
+Error in line 149: 74 275
+Error in line 150: XOR 27
+Error in line 151: 6 277
+Error in line 152: XOR 278
+Error in line 153:  279
+Error in line 154: XOR 280 
+Error in line 155: 281
+Error in line 156: XOR 282 2
+Error in line 157: 83
+Error in line 158: XOR 284 28
+Error in line 159: 5
+Error in line 160: XOR 286 287
+Error in line 161: 
+Error in line 162: 
+Error in line 163: AND 290 291
+Error in line 164: A
+Error in line 165: ND 292 293
+Error in line 166: AN
+Error in line 167: D 294 295
+Error in line 168: AND
+Error in line 169:  296 297
+Error in line 170: AND 
+Error in line 171: 298 299
+Error in line 172: AND 3
+Error in line 173: 00 301
+Error in line 174: AND 30
+Error in line 175: 2 303
+Error in line 176: AND 304
+Error in line 177:  305
+Error in line 178: AND 306 
+Error in line 179: 307
+Error in line 180: AND 308 3
+Error in line 181: 09
+Error in line 182: AND 310 31
+Error in line 183: 1
+Error in line 184: AND 312 313
+Error in line 185: 
+Error in line 186: 
+Error in line 187: NAND 316 317
+Error in line 188: N
+Error in line 189: AND 318 319
+Error in line 190: NA
+Error in line 191: ND 320 321
+Error in line 192: NAN
+Error in line 193: D 322 323
+Error in line 194: NAND
+Error in line 195:  324 325
+Error in line 196: NAND 
+Error in line 197: 326 327
+Error in line 198: NAND 3
+Error in line 199: 28 329
+Error in line 200: NAND 33
+Error in line 201: 0 331
+Error in line 202: NAND 332
+Error in line 203:  333
+Error in line 204: NAND 334 
+Error in line 205: 335
+Error in line 206: NAND 336 3
+Error in line 207: 37
+Error in line 208: NAND 338 33
+Error in line 209: 9
+Error in line 210: NAND 340 341
+Error in line 211: 
+Error in line 212: 
+Error in line 213: OR 344 345
+Error in line 214: O
+Error in line 215: R 346 347
+Error in line 216: OR
+Error in line 217:  348 349
+Error in line 218: OR 
+Error in line 219: 350 351
+Error in line 220: OR 3
+Error in line 221: 52 353
+Error in line 222: OR 35
+Error in line 223: 4 355
+Error in line 224: OR 356
+Error in line 225:  357
+Error in line 226: OR 358 
+Error in line 227: 359
+Error in line 228: OR 360 3
+Error in line 229: 61
+Error in line 230: OR 362 36
+Error in line 231: 3
+Error in line 232: OR 364 365
+Error in line 233: 
+Error in line 234: 
+Error in line 235: NOR 368 369
+Error in line 236: N
+Error in line 237: OR 370 371
+Error in line 238: NO
+Error in line 239: R 372 373
+Error in line 240: NOR
+Error in line 241:  374 375
+Error in line 242: NOR 
+Error in line 243: 376 377
+Error in line 244: NOR 3
+Error in line 245: 78 379
+Error in line 246: NOR 38
+Error in line 247: 0 381
+Error in line 248: NOR 382
+Error in line 249:  383
+Error in line 250: NOR 384 
+Error in line 251: 385
+Error in line 252: NOR 386 3
+Error in line 253: 87
+Error in line 254: NOR 388 38
+Error in line 255: 9
+Error in line 256: NOR 390 391
+Error in line 257: 
+Error in line 258: NOT 393
+Error in line 259: NOT 394
+Error in line 260: NOT 395
+Error in line 261: NOT 396
+Error in line 262: NOT 397
+Error in line 263: signal 3 is assigned to multiple outputs.
+Error in line 265: NOT 400
+Error in line 266: XOR 403 404
+Error in line 267: XOR 405 406
+Error in line 268: XOR 407 408
+Error in line 269: XOR 409 410
+Error in line 270: XOR 411 412
+Error in line 273: XOR 417 418
+Error in line 274: XOR 419 420
+Error in line 277: XOR 425 426
+Error in line 278: AND 429 430
+Error in line 279: AND 431 432
+Error in line 280: AND 433 434
+Error in line 281: AND 435 436
+Error in line 282: AND 437 438
+Error in line 283: signal 4 is assigned to multiple outputs.
+Error in line 284: signal 44 is assigned to multiple outputs.
+Error in line 285: AND 443 444
+Error in line 286: AND 445 446
+Error in line 288: AND 449 450
+Error in line 289: AND 451 452
+Error in line 290: NAND 455 456
+Error in line 291: NAND 457 458
+Error in line 292: NAND 459 460
+Error in line 293: NAND 461 462
+Error in line 294: NAND 463 464
+Error in line 295: NAND 465 466
+Error in line 296: signal 4 is assigned to multiple outputs.
+Error in line 298: NAND 471 472
+Error in line 299: NAND 473 474
+Error in line 302: NAND 479 480
+Error in line 303: OR 483 484
+Error in line 304: OR 485 486
+Error in line 305: OR 487 488
+Error in line 306: OR 489 490
+Error in line 307: signal 4 is assigned to multiple outputs.
+Error in line 309: OR 495 496
+Error in line 310: OR 497 498
+Error in line 311: OR 499 500
+Error in line 313: OR 503 504
+Error in line 314: NOR 507 508
+Error in line 315: NOR 509 510
+Error in line 316: NOR 511 512
+Error in line 317: NOR 513 514
+Error in line 318: NOR 515 516
+Error in line 321: NOR 521 522
+Error in line 322: NOR 523 524
+Error in line 325: NOR 529 530
+Error in line 326: NOT 532
+Error in line 327: NOT 533
+Error in line 328: NOT 534
+Error in line 329: NOT 535
+Error in line 330: NOT 536
+Error in line 331: signal 5 is assigned to multiple outputs.
+Error in line 333: NOT 539
+Error in line 334: XOR 542 543
+Error in line 335: XOR 544 545
+Error in line 336: XOR 546 547
+Error in line 337: XOR 548 549
+Error in line 338: XOR 550 551
+Error in line 339: signal 5 is assigned to multiple outputs.
+Error in line 341: XOR 556 557
+Error in line 342: XOR 558 559
+Error in line 345: XOR 564 565
+Error in line 346: AND 568 569
+Error in line 347: AND 570 571
+Error in line 348: AND 572 573
+Error in line 349: AND 574 575
+Error in line 350: AND 576 577
+Error in line 351: signal 5 is assigned to multiple outputs.
+Error in line 352: AND 580 581
+Error in line 353: AND 582 583
+Error in line 354: AND 584 585
+Error in line 357: AND 590 591
+Error in line 358: NAND 594 595
+Error in line 359: NAND 596 597
+Error in line 360: NAND 598 599
+Error in line 361: NAND 600 601
+Error in line 362: NAND 602 603
+Error in line 363: NAND 604 605
+Error in line 365: NAND 610 611
+Error in line 366: NAND 612 613
+Error in line 369: NAND 618 619
+Error in line 370: OR 622 623
+Error in line 371: OR 624 625
+Error in line 372: OR 626 627
+Error in line 373: OR 628 629
+Error in line 374: signal 6 is assigned to multiple outputs.
+Error in line 376: OR 634 635
+Error in line 377: OR 636 637
+Error in line 380: OR 642 643
+Error in line 381: NOR 646 647
+Error in line 382: NOR 648 649
+Error in line 383: NOR 650 651
+Error in line 384: NOR 652 653
+Error in line 385: NOR 654 655
+Error in line 386: signal 6 is assigned to multiple outputs.
+Error in line 388: NOR 660 661
+Error in line 389: NOR 662 663
+Error in line 392: NOR 668 669
+Error in line 393: NOT 671
+Error in line 394: NOT 672
+Error in line 395: NOT 673
+Error in line 396: NOT 674
+Error in line 397: NOT 675
+Error in line 398: signal 6 is assigned to multiple outputs.
+Error in line 400: NOT 678
+Error in line 401: XOR 681 682
+Error in line 402: XOR 683 684
+Error in line 403: XOR 685 686
+Error in line 404: XOR 687 688
+Error in line 405: XOR 689 690
+Error in line 406: signal 6 is assigned to multiple outputs.
+Error in line 408: XOR 695 696
+Error in line 409: XOR 697 698
+Error in line 410: XOR 699 700
+Error in line 412: XOR 703 704
+Error in line 413: AND 707 708
+Error in line 414: AND 709 710
+Error in line 415: AND 711 712
+Error in line 416: AND 713 714
+Error in line 417: AND 715 716
+Error in line 420: AND 721 722
+Error in line 421: AND 723 724
+Error in line 424: AND 729 730
+Error in line 425: NAND 733 734
+Error in line 426: NAND 735 736
+Error in line 427: NAND 737 738
+Error in line 428: NAND 739 740
+Error in line 429: NAND 741 742
+Error in line 430: NAND 743 744
+Error in line 431: signal 7 is assigned to multiple outputs.
+Error in line 433: NAND 749 750
+Error in line 434: NAND 751 752
+Error in line 437: NAND 757 758
+Error in line 438: OR 761 762
+Error in line 439: OR 763 764
+Error in line 440: OR 765 766
+Error in line 441: OR 767 768
+Error in line 442: signal 7 is assigned to multiple outputs.
+Error in line 444: OR 773 774
+Error in line 445: OR 775 776
+Error in line 447: OR 779 780
+Error in line 448: OR 781 782
+Error in line 449: NOR 785 786
+Error in line 450: NOR 787 788
+Error in line 451: NOR 789 790
+Error in line 452: NOR 791 792
+Error in line 453: NOR 793 794
+Error in line 454: signal 7 is assigned to multiple outputs.
+Error in line 456: NOR 799 800
+Error in line 457: NOR 801 802
+Error in line 459: NOR 807 808
+Error in line 460:  NOT 810
+Error in line 461: N OT 811
+Error in line 462: NO T 812
+Error in line 463: NOT  813
+Error in line 464: NOT  814
+Error in line 465: NOT 8 15
+Error in line 466: NOT 81 6
+Error in line 467: NOT 817 
+Error in line 468:  XOR 820 821
+Error in line 469: X OR 822 823
+Error in line 470: XO R 824 825
+Error in line 471: XOR  826 827
+Error in line 472: XOR  828 829
+Error in line 473: XOR 8 30 831
+Error in line 474: XOR 83 2 833
+Error in line 475: XOR 834  835
+Error in line 476: XOR 836  837
+Error in line 477: XOR 838 8 39
+Error in line 478: XOR 840 84 1
+Error in line 479: XOR 842 843 
+Error in line 480:  AND 846 847
+Error in line 481: A ND 848 849
+Error in line 482: AN D 850 851
+Error in line 483: AND  852 853
+Error in line 484: AND  854 855
+Error in line 485: AND 8 56 857
+Error in line 486: AND 85 8 859
+Error in line 487: AND 860  861
+Error in line 488: AND 862  863
+Error in line 489: AND 864 8 65
+Error in line 490: AND 866 86 7
+Error in line 491: AND 868 869 
+Error in line 492:  NAND 872 873
+Error in line 493: N AND 874 875
+Error in line 494: NA ND 876 877
+Error in line 495: NAN D 878 879
+Error in line 496: NAND  880 881
+Error in line 497: NAND  882 883
+Error in line 498: NAND 8 84 885
+Error in line 499: NAND 88 6 887
+Error in line 500: NAND 888  889
+Error in line 501: NAND 890  891
+Error in line 502: NAND 892 8 93
+Error in line 503: NAND 894 89 5
+Error in line 504: NAND 896 897 
+Error in line 505:  OR 900 901
+Error in line 506: O R 902 903
+Error in line 507: OR  904 905
+Error in line 508: OR  906 907
+Error in line 509: OR 9 08 909
+Error in line 510: OR 91 0 911
+Error in line 511: OR 912  913
+Error in line 512: OR 914  915
+Error in line 513: OR 916 9 17
+Error in line 514: OR 918 91 9
+Error in line 515: OR 920 921 
+Error in line 516:  NOR 924 925
+Error in line 517: N OR 926 927
+Error in line 518: NO R 928 929
+Error in line 519: NOR  930 931
+Error in line 520: NOR  932 933
+Error in line 521: NOR 9 34 935
+Error in line 522: NOR 93 6 937
+Error in line 523: NOR 938  939
+Error in line 524: NOR 940  941
+Error in line 525: NOR 942 9 43
+Error in line 526: NOR 944 94 5
+Error in line 527: NOR 946 947 

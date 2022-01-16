@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/_JNP_Zad01Final2.dir/main.cpp.o -o _JNP_Zad01Final2 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/_JNP_Zad2Final.dir/maptel.cc.o CMakeFiles/_JNP_Zad2Final.dir/maptel_test2.cc.o CMakeFiles/_JNP_Zad2Final.dir/maptel_test1.c.o -o _JNP_Zad2Final 

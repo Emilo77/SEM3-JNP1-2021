@@ -1,0 +1,27 @@
+maptel: maptel_create()
+maptel: maptel_create: new map id = 0
+maptel: maptel_insert(0, 112, 997)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 225544416, 225544401)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 225544401, 223333333)
+maptel: maptel_insert: inserted
+maptel: maptel_transform(0, 112, ADDR, 23)
+maptel: maptel_transform: 112 -> 997
+maptel: maptel_transform(0, 223333333, ADDR, 23)
+maptel: maptel_transform: 223333333 -> 223333333
+maptel: maptel_erase(0, 223333333)
+maptel: maptel_erase: nothing to erase
+maptel: maptel_erase(0, 112)
+maptel: maptel_erase: erased
+maptel: maptel_transform(0, 112, ADDR, 23)
+maptel: maptel_transform: 112 -> 112
+maptel: maptel_transform(0, 225544416, ADDR, 23)
+maptel: maptel_transform: 225544416 -> 223333333
+maptel: maptel_insert(0, 223333333, 223333333)
+maptel: maptel_insert: inserted
+maptel: maptel_transform(0, 223333333, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 223333333 -> 223333333
+maptel: maptel_delete(0)
+maptel: maptel_delete: map 0 deleted

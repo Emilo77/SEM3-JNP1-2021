@@ -1,0 +1,49 @@
+maptel: maptel_create()
+maptel: maptel_create: new map id = 0
+maptel: maptel_insert(0, 0, 5)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 1, 8)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 2, 6)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 3, 4)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 4, 8)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 5, 4)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 6, 5)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 7, 6)
+maptel: maptel_insert: inserted
+maptel: maptel_insert(0, 8, 3)
+maptel: maptel_insert: inserted
+maptel: maptel_transform(0, 0, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 0 -> 0
+maptel: maptel_transform(0, 1, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 1 -> 1
+maptel: maptel_transform(0, 2, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 2 -> 2
+maptel: maptel_transform(0, 3, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 3 -> 3
+maptel: maptel_transform(0, 4, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 4 -> 4
+maptel: maptel_transform(0, 5, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 5 -> 5
+maptel: maptel_transform(0, 6, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 6 -> 6
+maptel: maptel_transform(0, 7, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 7 -> 7
+maptel: maptel_transform(0, 8, ADDR, 23)
+maptel: maptel_transform: cycle detected
+maptel: maptel_transform: 8 -> 8
+maptel: maptel_transform(0, 9, ADDR, 23)
+maptel: maptel_transform: 9 -> 9

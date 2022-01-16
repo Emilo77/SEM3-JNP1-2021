@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/_JNP_Zad01Final.dir/nysa.cc.o -o _JNP_Zad01Final 

@@ -1,0 +1,5 @@
+*.cpp
+*.o
+*.py
+*.out
+src/

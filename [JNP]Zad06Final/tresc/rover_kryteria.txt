@@ -1,0 +1,43 @@
+Kryteria oceny zadania Rover
+Języki i narzędzia programowania 1, edycja 2021/22
+
+== Cele dydaktyczne ==
+
+Studenci powinni:
+- poznać zasady programowania obiektowego w C++, w szczególności:
+  metody wirtualne, wielodziedziczenie, dziedziczenie wirtualne;
+- przyswoić sobie dobre praktyki programowania obiektowego;
+- przećwiczyć wybrane wzorce projektowe.
+
+== Ocena automatyczna ==
+
+Po jednym punkcie za przejście wszystkich testów z grup od 1xx do 6xx.
+
+== Ocena jakości tekstu źródłowego ==
+
+Proponuję zacząć od 5 punktów (wersja z modułami|) oraz 4 punktów (wersja bez modułów)
+i odejmować po jednym punkcie za (przy czym ocena nie może być ujemna):
+
+1)  Niezgodność zawartości repozytorium ze specyfikacją
+2)  Ostrzeżenia wypisywane przez kompilator
+3)  Braki const
+4)  Brak wirtualnych destruktorów (tam gdzie trzeba)
+5)  Problemy z zarządzaniem pamięcią, niekorzystanie ze sprytnych wskaźników
+6)  Brak wyodrębnienia hierarchii komend
+7)  Zbyt skomplikowana klasa Rover (brak wydzielenia klas pomocniczych, np.
+    odpowiadających za zarządzanie stanem)
+8)  Zależności cykliczne typów
+9)  Brak właściwej enkapsulacji, m.in. zwracanie modyfikowalnych struktur danych,
+    zbyt duże możliwości modyfikacji stanu obiektu (zbyt dużo publicznych metod,
+    „głupie” publiczne settery lub gettery)
+10) Instrukcja switch zamiast wykorzystania polimorfizmu
+11) Powtórzenia kodu
+12) Brzydki styl, zbyt duże klasy lub metody, nieprzejrzysty kod, zbyt dużo powiązań
+13) Rzutowanie w dół, tego NIE powinno być!
+
+Wersja z modułami:
+14) Jeden duży moduł (zalecane jest wyodrębnienie co najmniej 3 modułów)
+
+Wersja bez modułów:
+14) Brak header guard
+15) Definiowanie funkcji w pliku nagłówkowym prowadzące do błędu linkowania

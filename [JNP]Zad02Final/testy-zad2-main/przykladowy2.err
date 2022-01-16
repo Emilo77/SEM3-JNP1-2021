@@ -1,0 +1,8 @@
+maptel: maptel_create()
+maptel: maptel_create: new map id = 0
+maptel: maptel_insert(0, 997, 112)
+maptel: maptel_insert: inserted
+maptel: maptel_transform(0, 997, ADDR, 23)
+maptel: maptel_transform: 997 -> 112
+maptel: maptel_delete(0)
+maptel: maptel_delete: map 0 deleted

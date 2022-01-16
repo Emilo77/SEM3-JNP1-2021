@@ -1,0 +1,6 @@
+maptel: maptel_create()
+maptel: maptel_create: new map id = 0
+maptel: maptel_delete(0)
+maptel: maptel_delete: map 0 deleted
+maptel: maptel_delete(0)
+maptel: maptel_delete: map 0 deleted

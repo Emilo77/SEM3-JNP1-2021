@@ -1,0 +1,6 @@
+maptel: maptel_create()
+maptel: maptel_create: new map id = 0
+maptel: maptel_insert(0, 1234, 56789)
+maptel: maptel_insert: inserted
+maptel: maptel_transform(0, 1234, ADDR, 6)
+maptel: maptel_transform: 1234 -> 56789

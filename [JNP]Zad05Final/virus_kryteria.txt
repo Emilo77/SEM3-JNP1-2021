@@ -1,0 +1,49 @@
+=== Proponowane kryteria oceniania piątego zadania ===
+
+== Cele dydaktyczne ==
+
+Studenci powinni poznać:
+- poziomy odporności na wyjątki;
+- schematy pozwalające zapewnić co najmniej silną odporność na wyjątki;
+- zarządzanie pamięcią z użyciem sprytnych wskaźników.
+
+== Ocena z testów automatycznych ==
+
+Przyznawany jest jeden punkt za przejście wszystkich testów z danej grupy
+testów. Jest sześć grup testów:
+TODO
+
+== Ocena jakości tekstu źródłowego ==
+
+Zaczynamy od 4 punktów i odejmujemy po jednym punkcie za (przy czym ocena nie
+może być ujemna):
+- niezgodność zawartości repozytorium ze specyfikacją;
+- brzydki styl;
+- ostrzeżenia wypisywane przez kompilator;
+- brak header guard;
+- niedziedziczenie publiczne wyjątków po std::exception;
+- niezablokowanie konstruktora kopiującego i operatora przypisania w klasie
+  VirusGenealogy;
+- trzymanie wielu map w VirusGenealogy, zamiast stworzenia osobnej klasy
+  reprezentującej węzeł;
+- niepotrzebne zaśmiecanie globalnej przestrzeni nazw, nieukrywanie pomocniczych
+  klas i funkcji;
+- zostawianie „zaślepek”, nieusuwanie węzła reprezentującego wirusa, a tylko
+  zaznaczenie, że został usunięty;
+- nieprzejrzysty kod – sprawdzający nie mógł łatwo zrozumieć, dlaczego
+  poszczególne funkcje mają dobrą odporność na wyjątki;
+- nieprzejrzysty kod – sprawdzający nie mógł łatwo zrozumieć, że na pewno nie
+  cieknie pamięć, ewentualnie, gdzie cieknie pamięć;
+- zła złożoność czasowa wyszukiwania (operator[], ale też w innych metodach);
+- braki const;
+- braki noexcept;
+- użycie operatora new w sposób nie dający silnej gwarancji odporności na
+  wyjątki, np. przy tworzeniu shared_ptr zamiast użycia make_shared;
+- zbyt duża liczba tworzonych kopii potencjalnie dużych obiektów;
+- inne błędy i niezgodności z treścią zadania lub odpowiedziami udzielonymi na
+  forum, a niewykryte przez testy automatyczne;
+- niespełnianie przez iterator warunków konceptu bidirectional_iterator;
+- niezastosowanie się do innych uwag udzielonych w poprzednich zadaniach.
+
+Niektóre z powyższych kryteriów mogą być sprawdzane automatycznie, a ich ocena
+może przejś do oceny z testów automatycznych.

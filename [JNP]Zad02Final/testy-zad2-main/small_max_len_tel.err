@@ -1,0 +1,4 @@
+maptel: maptel_create()
+maptel: maptel_create: new map id = 0
+maptel: maptel_insert(0, 0, 0123456789012345678901)
+maptel: maptel_insert: inserted
